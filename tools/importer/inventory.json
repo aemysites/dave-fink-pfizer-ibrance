@@ -1392,16 +1392,7 @@
           "urlHash": "cc83580b3df37ec256492e1c23a2a81d4c1f0ef3",
           "uuid": "cc83580b-02-d93c43b295b7b1bfe1f9a6842c3204e8e42c7653",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 44,
-      "source": "Hero",
-      "target": "Hero (hero44)",
-      "key": "hero44",
-      "instances": [
+        },
         {
           "url": "https://www.ibrance.co.nz/home",
           "urlHash": "29f4a960ed914e31dfdb16a5b96707f4962e051f",
