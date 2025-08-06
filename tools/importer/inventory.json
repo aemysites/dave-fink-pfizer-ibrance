@@ -769,6 +769,12 @@
           "urlHash": "15ea179ad494aa565c9390255cae952db39bed1d",
           "uuid": "15ea179a-07-619096b76cb1954a275db039d79ea4705691b733",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ibrance.co.nz/about-ibrance",
+          "urlHash": "2efcd8b348b7d2d8504cccefe4b3fd3909dbc28e",
+          "uuid": "2efcd8b3-16-7490fa31e3706a714a74c5f6029a0f72e1814f7d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[8]/div[1]/div[1]"
         }
       ]
     },
@@ -1444,21 +1450,6 @@
           "urlHash": "2efcd8b348b7d2d8504cccefe4b3fd3909dbc28e",
           "uuid": "2efcd8b3-07-25a5fd074f6bb76d246bfd3e6c35f7de235af158",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 48,
-      "source": "Cards",
-      "target": "Cards (cards48)",
-      "key": "cards48",
-      "instances": [
-        {
-          "url": "https://www.ibrance.co.nz/about-ibrance",
-          "urlHash": "2efcd8b348b7d2d8504cccefe4b3fd3909dbc28e",
-          "uuid": "2efcd8b3-16-7490fa31e3706a714a74c5f6029a0f72e1814f7d",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[8]/div[1]/div[1]"
         }
       ]
     },
