@@ -1205,21 +1205,6 @@
       ]
     },
     {
-      "name": "Cards (no images)",
-      "cluster": 32,
-      "source": "Cards",
-      "target": "Cards",
-      "key": "cardsNoImages32",
-      "instances": [
-        {
-          "url": "https://www.ibrance.co.nz/patient-support/helpful-terminology",
-          "urlHash": "d0bc7c708f47f5f59cc1167355890c738cdc5f5c",
-          "uuid": "d0bc7c70-05-3d3c9d295aaecdddadf056bf20be68ea1c36b918",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
-        }
-      ]
-    },
-    {
       "name": "Columns",
       "cluster": 33,
       "source": "Columns",
@@ -1537,6 +1522,18 @@
           "urlHash": "8c0c869b68bc4c02b7937ce9664be2c5f1ef4386",
           "uuid": "8c0c869b-24-e238c31fea7dbd2db7d09a14ee4130210c4cc2b0",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[13]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 55,
+      "instances": [
+        {
+          "url": "https://www.ibrance.co.nz/patient-support/helpful-terminology",
+          "urlHash": "d0bc7c708f47f5f59cc1167355890c738cdc5f5c",
+          "uuid": "d0bc7c70-05-3d3c9d295aaecdddadf056bf20be68ea1c36b918",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
         }
       ]
     }
