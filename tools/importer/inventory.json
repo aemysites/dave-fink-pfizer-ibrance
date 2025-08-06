@@ -1534,6 +1534,12 @@
   ],
   "outliers": [
     {
+      "url": "https://www.ibrance.co.nz/about-ibrance/taking-ibrance",
+      "urlHash": "8c0c869b68bc4c02b7937ce9664be2c5f1ef4386",
+      "uuid": "8c0c869b-24-e238c31fea7dbd2db7d09a14ee4130210c4cc2b0",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[13]"
+    },
+    {
       "url": "https://www.ibrance.co.nz/metastatic-breast-cancer-diagnosis",
       "urlHash": "25cacc760f6bfcd5d24745c3a6d73f0a2eabd154",
       "uuid": "25cacc76-10-470bb623da912559f9ad22cbc3940337e832c3f6",
@@ -1840,12 +1846,6 @@
       "uuid": "8c0c869b-22-9ef52bfbc2ebc75a9d7971892b0727c1896c8dd6",
       "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[12]/div[1]/div[1]",
       "section": "section-5"
-    },
-    {
-      "url": "https://www.ibrance.co.nz/about-ibrance/taking-ibrance",
-      "urlHash": "8c0c869b68bc4c02b7937ce9664be2c5f1ef4386",
-      "uuid": "8c0c869b-24-e238c31fea7dbd2db7d09a14ee4130210c4cc2b0",
-      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[13]"
     },
     {
       "url": "https://www.ibrance.co.nz/about-ibrance/taking-ibrance",
