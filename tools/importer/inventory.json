@@ -563,7 +563,8 @@
           "uuid": "ef969107-01-8ad316b8d23aa0704d6f1dd05500a6bc9af80dcf",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]"
         }
-      ]
+      ],
+      "target": "ignore"
     },
     {
       "name": "Columns",
